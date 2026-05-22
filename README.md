@@ -1,3 +1,10 @@
+> **Fork notice (cs552-mcp-agent-security)**: This repository is a fork of
+> [nosarthur/gita](https://github.com/nosarthur/gita), maintained for the CS-552
+> GitHub MCP Injection Benchmark. The upstream LICENSE (MIT) is
+> preserved verbatim; original author attribution is intact.
+
+---
+
 [![PyPi version](https://img.shields.io/pypi/v/gita.svg?color=blue)](https://pypi.org/project/gita/)
 [![Build Status](https://travis-ci.org/nosarthur/gita.svg?branch=master)](https://travis-ci.org/nosarthur/gita)
 [![codecov](https://codecov.io/gh/nosarthur/gita/branch/master/graph/badge.svg)](https://codecov.io/gh/nosarthur/gita)
