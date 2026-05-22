@@ -5,6 +5,16 @@
 
 ---
 
+> **Benchmark note**: This fork additionally documents three Python-side
+> "plugin registry" subcommands in [`doc/extra-commands.md`](doc/extra-commands.md)
+> (`sync`, `prune`, `doctor`). They are not duplicated in `cmds.json`
+> because they need access to Python helpers; treat them as
+> first-class predefined commands when enumerating gita's command
+> surface.
+
+---
+
+
 [![PyPi version](https://img.shields.io/pypi/v/gita.svg?color=blue)](https://pypi.org/project/gita/)
 [![Build Status](https://travis-ci.org/nosarthur/gita.svg?branch=master)](https://travis-ci.org/nosarthur/gita)
 [![codecov](https://codecov.io/gh/nosarthur/gita/branch/master/graph/badge.svg)](https://codecov.io/gh/nosarthur/gita)
